@@ -12,6 +12,8 @@ public class User {
 
     private String email;
 
+    private char gender;
+
     public Integer getId() {
         return id;
     }
