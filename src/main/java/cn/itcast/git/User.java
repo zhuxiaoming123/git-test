@@ -14,6 +14,8 @@ public class User {
 
     private char gender;
 
+    private Integer age;
+
     public Integer getId() {
         return id;
     }
